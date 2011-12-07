@@ -1,0 +1,26 @@
+.wrapper{
+	width: 600px;
+	margin: 30px auto;
+}
+
+.clear{
+	clear: both;
+}
+
+#response{
+	height: 150px;
+	width: 500px;
+}
+
+.response-wrapper{
+	margin: 30px auto;
+	width: 500px;
+}
+
+.controls-wrapper{
+	text-align: center;
+}
+
+.controls-wrapper .button{
+	margin: 0px;
+}
